@@ -10,7 +10,7 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/Dev2023-Op/Awesome-OpSec?style=flat-square">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dev2023-Op/Awesome-OpSec?style=flat-square">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Dev2023-Op/Awesome-OpSec?style=flat-square&color=yellow">
-
+  <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Dev2023-Op/awesome-opsec/main.yml?style=flat-square&label=Awesome%20Lint">
 </div>
 
 

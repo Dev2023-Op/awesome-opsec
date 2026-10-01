@@ -1,8 +1,10 @@
 name: Awesome Lint
 on:
   pull_request:
+    types: [opened, synchronize]
     branches: [main]
   workflow_dispatch:
+  push:
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest

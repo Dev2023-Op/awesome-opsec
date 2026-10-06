@@ -24,7 +24,7 @@
 
 ## Identity Generation
 
-- [anonaddy](https://addy.io) - A free fake email generator that forwards emails to your personal email.
+- [addy.io](https://addy.io) - A free fake email generator that forwards emails to your personal email.
 - [fake name generator](https://www.fakenamegenerator.com/) - Generates a fake persona.
 - [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) - A face generator.
 
@@ -32,14 +32,13 @@
 
 ### Encryption
 
-- [cyberchef](https://gchq.github.io/CyberChef/)
-- [fernet](https://github.com/wolfofdalalst/fernet-cipher) - Python tool to encrypt and decrypt files.
+- [CyberChef](https://gchq.github.io/CyberChef/)
 - [VeraCrypt](https://veracrypt.io/en/Downloads.html) - File and disk encryption tool.
 
 ### Metadata
 
 - [metadata2go](https://www.metadata2go.com/) - Metadata tools in your browser.
-- [exiftool](https://exiftool.org/) - CLI exif data tool that supports passwords.
+- [ExifTool](https://exiftool.org/) - CLI exif data tool that supports passwords.
 
 ### Steganography
 - [steghide](https://steghide.com/) - CLI steganography.
@@ -56,15 +55,15 @@
 
 - [whonix](https://www.whonix.org) - Virtualized desktop OS.
 - [tails](https://tails.net) - OS that resets when you reboot.
-- [graphene os](https://grapheneos.org) - Phone OS.
+- [GrapheneOS](https://grapheneos.org) - Phone OS.
 
 ## Apps
 
 - [tor](https://torproject.org) - Provides access to encrypted/dark web.
-- [libre wolf](https://librewolf.net/) - Browser designed for privacy.
+- [LibreWolf](https://librewolf.net/) - Browser designed for privacy.
 - [qTox](https://github.com/TokTok/qTox) - Encrypted messaging.
 - [signal](https://signal.org) - Encrypted messaging.
-- [Bit warden](https://bitwarden.com/) - Open source password manager.
+- [Bitwarden](https://bitwarden.com/) - Open source password manager.
 - [Syncthing](https://syncthing.net/) - Open source file transfer.
 
 ## VPNs
@@ -76,11 +75,11 @@
 - [spys.one](https://spys.one/) - Proxy list.
 - [proxyscrape](https://proxyscrape.com/free-proxy-list) - Proxy list.
 - [foxyproxy](https://github.com/foxyproxy) - Browser extension for proxy switching.
-- [proxychains](https://github.com/haad/proxychains) - Allows you to use multiple proxies at the same time.
+- [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - Allows you to use multiple proxies at the same time.
 
-## Self audit
+## Self Audit
 
 - [OSINT framework](https://osintframework.com) - Directory of osint tools.
 - [WhatsMyName](https://whatsmyname.app) - Username search.
 - [sherlock](https://github.com/sherlock-project/sherlock) - CLI username search.
-- [pimeyes](https://pimeyes.com/) - Reverse face search.
+- [Pimeyes](https://pimeyes.com/) - Reverse face search.

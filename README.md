@@ -7,10 +7,8 @@
 </div>
 <div align="center">
   <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"></img></a>
-  <img alt="GitHub License" src="https://img.shields.io/github/license/Dev2023-Op/Awesome-OpSec?style=flat-square">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dev2023-Op/Awesome-OpSec?style=flat-square">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Dev2023-Op/Awesome-OpSec?style=flat-square&color=yellow">
-  <a href="#readme"><img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Dev2023-Op/awesome-opsec/main.yml?style=flat-square&label=Awesome%20Lint"></a>
 </div>
 
 
@@ -64,7 +62,7 @@
 
 - [tor](https://torproject.org) - Provides access to encrypted/dark web.
 - [libre wolf](https://librewolf.net/) - Browser designed for privacy.
-- [qTox](https://qtox.github.io) - Encrypted messaging.
+- [qTox](https://github.com/TokTok/qTox) - Encrypted messaging.
 - [signal](https://signal.org) - Encrypted messaging.
 - [Bit warden](https://bitwarden.com/) - Open source password manager.
 - [Syncthing](https://syncthing.net/) - Open source file transfer.

@@ -20,7 +20,7 @@
 - [Apps](#apps)
 - [VPNs](#vpns)
 - [Proxies](#proxies)
-- [Self audit](#self-audit)
+- [Self Audit](#self-audit)
 
 ## Identity Generation
 
